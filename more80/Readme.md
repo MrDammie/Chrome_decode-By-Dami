@@ -17,7 +17,7 @@ Usage:
              get_master_key_w_Cry || get_chrome_info
 
 【	
-	time:2015.2.12
+	time:2025.2.12
 	
 	基于 python 提取、解密、Windows 中 DPAI 解密 脚本 工具
 	
@@ -64,6 +64,7 @@ Usage:
 
     要在高权限下使用
 】
+
 
 
 
