@@ -14,7 +14,7 @@ Version: v.1.0  - Chrome Version less 80 Decode 12/02/25 - Mufasa @Dami
 
 
 【	
-	time:2015.2.12
+	time:2025.2.12
 	
 	基于  mimikatz dpapi chrome ，python 脚本 密码导出工具
 	
@@ -57,6 +57,7 @@ Version: v.1.0  - Chrome Version less 80 Decode 12/02/25 - Mufasa @Dami
     要在高权限下使用
 	}
 】
+
 
 
 
