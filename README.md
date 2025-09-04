@@ -14,7 +14,7 @@ Version: v.1.0  - Chrome Version less 80 Decode 12/02/25 - Mufasa @Dami
 
 
 【	
-	time:2015.2.12
+	time:2025.2.12
 	
 
 	基于  mimikatz dpapi chrome ，python 脚本 密码导出工具
@@ -80,7 +80,7 @@ Usage:
              get_master_key_w_Cry || get_chrome_info
 
 【	
-	time:2015.2.12
+	time:2025.2.12
 	
 
 	基于 python 提取、解密、Windows 中 DPAI 解密 脚本 工具
